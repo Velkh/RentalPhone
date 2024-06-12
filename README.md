@@ -1,2 +1,2 @@
 # RentalPhone
-Rental Phone Application, trun in java cli
+Rental Phone Application, run in java cli
