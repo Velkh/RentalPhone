@@ -1,2 +1,2 @@
 # RentalPhone
-Rental Phone Application, run in java cli
+Rental Phone Application with java using OOP
